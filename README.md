@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabadesusheelkrishna&theme=juicyfresh&column=6" alt="jabadesusheelkrishna" /></a> </p>
 
-- 🔭 I’m currently working on [Network file system](https://github.com/JabadeSusheelKrishna/network_file_system)
+- 🔭 I’m currently working on [Study Helper Project](https://github.com/JabadeSusheelKrishna/network_file_system)
 
-- 🌱 I’m currently learning **Software programming for performance, Design analysis of software systems, Computer Graphics, Numerical Algorithms**
+- 🌱 I’m currently learning **System Designing, GenAi, Agentic Ai, Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **Any kind of open source project**
 
-- 🤝 I’m looking for help with [Network File System](https://github.com/JabadeSusheelKrishna/network_file_system)
-
 - 👨‍💻 All of my projects are available at [https://github.com/JabadeSusheelKrishna/](https://github.com/JabadeSusheelKrishna/)
 
-- 💬 Ask me about **Programming, Full Stack Development,Google Cloud APIs, 3d Modelling, rending and animation**
+- 💬 You can ask me about **Web Development, App Development, DevOps, Software Designing**
 
-- 📫 How to reach me **susheelkrishna95@gmail.com**
+- 📫 How to reach me **susheelkrishnajabade@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
