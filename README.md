@@ -29,4 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabadesusheelkrishna&show_icons=true&locale=en&theme=radical" alt="jabadesusheelkrishna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabadesusheelkrishna&theme=radical" alt="jabadesusheelkrishna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JabadeSusheelKrishna&theme=radical" alt="jabadesusheelkrishna" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JabadeSusheelKrishna&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
