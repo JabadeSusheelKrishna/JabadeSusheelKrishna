@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabadesusheelkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="jabadesusheelkrishna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabadesusheelkrishna&theme=juicyfresh&column=6" alt="jabadesusheelkrishna" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Study Helper Project](https://github.com/JabadeSusheelKrishna/network_file_system)
 
