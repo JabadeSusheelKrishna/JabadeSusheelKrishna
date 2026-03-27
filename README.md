@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 <h1 align="center">Hi 👋, I'm Susheel Krishna</h1>
 <h3 align="center">Pursuing my undergraduation in CSE at IIIT Hyderabad..</h3>
 
