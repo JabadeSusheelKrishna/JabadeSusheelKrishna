@@ -1,6 +1,5 @@
 ![Header](./github-header-banner.png)
 
-<h1 align="center">Hi 👋, I'm Susheel Krishna</h1>
 <h3 align="center">Pursuing my undergraduation in CSE at IIIT Hyderabad..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabadesusheelkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="jabadesusheelkrishna" /> </p>
