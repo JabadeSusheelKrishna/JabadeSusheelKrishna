@@ -1,34 +1,170 @@
 ![Header](./github-header-banner.png)
 
-<h3 align="center">Pursuing my undergraduation in CSE at IIIT Hyderabad..</h3>
+<div align="center">
+  <h1>Hi there, I'm Susheel Krishna Jabade 👋</h1>
+  <p><strong>B.Tech in Computer Science & Engineering @ IIIT Hyderabad (Class of 2026)</strong></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/susheel-krishna-jabade/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:susheelkrishnajabade@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://leetcode.com/u/DoraemonPro/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://jabadesusheelkrishna.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="Portfolio" /></a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabadesusheelkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="jabadesusheelkrishna" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=jabadesusheelkrishna&label=Profile%20views&color=0e75b6&style=flat-square" alt="jabadesusheelkrishna" />
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabadesusheelkrishna&theme=juicyfresh&column=6" alt="jabadesusheelkrishna" /></a> </p> -->
+  <br>
+  <h4>🚀 Software Developer | Distributed Systems Enthusiast | AI/ML & Agentic AI Explorer</h4>
+</div>
 
-<center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JabadeSusheelKrishna&theme=radical" alt="jabadesusheelkrishna" /></p></center>
+---
 
-- 🔭 I’m currently working on [Study Helper Project](https://github.com/JabadeSusheelKrishna/network_file_system)
+### 👤 About Me
 
-- 🌱 I’m currently learning **System Designing, GenAi, Agentic Ai, Natural Language Processing**
+I am a final-year Computer Science undergraduate student at the **International Institute of Information Technology, Hyderabad (IIIT-H)**. I specialize in building robust distributed systems, low-latency networking architectures, and intelligent multi-agent AI platforms. With experience in both enterprise software development (AT&T) and health-tech integrations (VP Innovations), I enjoy solving complex performance, scalability, and security bottlenecks.
 
-- 👯 I’m looking to collaborate on **Any kind of open source project**
+- 🔭 **Current Focus:** Advanced system design, LLM agents (MCP), and real-time networking.
+- 🌱 **Learning & Researching:** Agentic AI architectures, Model Context Protocols, and advanced DevOps/Kubernetes.
+- 👯 **Collaboration:** Open to collaborating on open-source distributed systems, database engines, and AI orchestration.
 
-- 👨‍💻 All of my projects are available at [https://github.com/JabadeSusheelKrishna/](https://github.com/JabadeSusheelKrishna/)
+---
 
-- 💬 You can ask me about **Web Development, App Development, DevOps, Software Designing**
+### 📊 GitHub Metrics & Insights
 
-- 📫 How to reach me **susheelkrishnajabade@gmail.com**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=JabadeSusheelKrishna&show_icons=true&theme=transparent&hide_border=true" alt="Susheel's GitHub Stats" width="400" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabadeSusheelKrishna&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="350" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JabadeSusheelKrishna&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- 😁 please access my Portfolio exacly [here 🞋](https://jabadesusheelkrishna.github.io/Portfolio)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/susheel-krishna-jabade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/susheel-krishna-7133b9254?utm_source=share&utm_campaign=share_via&utm_content=profile" height="30" width="40" /></a>
+### 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🌐 Web, App & Databases</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⛓️ Systems & Networking</h4>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/gRPC-808080?style=flat&logo=grpc&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" alt="WebRTC" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🤖 AI/ML & Agentic AI</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/RAG-4285F4?style=flat" alt="RAG" />
+      <img src="https://img.shields.io/badge/MCP-007ACC?style=flat" alt="MCP" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4>⚙️ DevOps & Cloud Orchestration</h4>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Professional Experience
+
+<details open>
+  <summary><strong>💻 Software Developer Intern | AT&T (March 2024 – June 2024)</strong></summary>
+  <br>
+  <ul>
+    <li><strong>EHR Sharing System:</strong> Developed a secure Electronic Health Record sharing system that replaced insecure email-based exchanges with a centralized, FHIR-compliant server.</li>
+    <li><strong>Security & Efficiency:</strong> Implemented Hash ID–based identity protection and consent-driven data retrieval, boosting security and overall data accessibility by <strong>30%</strong>.</li>
+    <li><strong>Full-Stack Implementation:</strong> Designed the backend APIs, responsive web dashboards, and a React Native mobile application for granular patient consent management.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><strong>🏥 Software Developer Intern | VP Innovations (January 2024 – February 2024)</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Cross-Platform Sync:</strong> Engineered a cross-platform health-monitoring application integrating Google Fit and Samsung Health APIs via Health Connect, syncing wearable sensors in real-time with Firebase.</li>
+    <li><strong>AI Insights:</strong> Devised a Python-based Naive Bayes classifier model to analyze activity logs and provide customized wellness recommendations, improving accuracy by <strong>15%</strong>.</li>
+  </ul>
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+#### [🌐 Online Peer-to-Peer Meeting Platform](https://github.com/SuryaNarayanaJabade/online-meeting-webrtc-MS)
+- **Tech Stack:** `MERN Stack`, `Docker`, `WebRTC`, `Firebase`
+- Architected a microservices-based P2P streaming web app supporting up to **10,000+ concurrent users** for real-time video/audio.
+- Containerized the microservices using Docker and integrated Firebase for fast real-time signaling, lowering video stream latency by **25%** and achieving **99.95% availability**.
+
+#### [📰 RSS Reader: System Redesign & Feature Enhancement](https://github.com/SuryaNarayanaJabade/RSS_Reader-System_Redesign_and_Feature_Enhancement)
+- **Tech Stack:** `Java`, `Spring Boot`, `OOP`, `SonarQube`, `Jenkins`
+- Refactored legacy modular structures by addressing **20+ architectural and design smells** identified via SonarQube and UML, boosting codebase quality metrics by **15%**.
+- Extended capabilities with custom user modules, bug reporting logs, and AI-powered feed summaries. Automated code quality checks and CI/CD pipelines using Jenkins.
+
+#### [💾 Distributed Network File System](https://github.com/JabadeSusheelKrishna/Network_File_System)
+- **Tech Stack:** `C`, `System Calls`, `POSIX Sockets`, `Thread Concurrency`
+- Developed a multi-tier Distributed NFS featuring centralized Naming, Storage, and Client server processes.
+- Structured thread-safe concurrent access locks and implemented robust data replication strategies, improving transactional transfer consistency by **30%**.
+
+#### [🗄️ SimpleRA: A Minimalist Integer-Only RDBMS](https://github.com/JabadeSusheelKrishna/SimpleRA-RDBMS)
+- **Tech Stack:** `C++`, `SQL Parser`, `CMake`, `B+ Tree`
+- Designed an SQL engine featuring an custom query lexer/parser, executors (SELECT, INSERT, UPDATE), and page-mapped B+ Tree indices.
+- Engineered memory page eviction buffers, speeding query evaluation times by **60%** over standard naive disk baselines.
+
+#### [🤖 Polymind AI: Multi-Agent Reasoning System](https://github.com/SuryaNarayanaJabade/Polymind-AI---A-Multi-Agent-Based-Chatbot)
+- **Tech Stack:** `Python`, `MCP (Model Context Protocol)`, `LLMs`, `Web Scraping`
+- Created a terminal-based multi-agent orchestration shell with specialized routing to Coding, Mathematics, and General knowledge agents.
+- Armed agents with custom Model Context Protocol (MCP) tools for local file operations, sandboxed code execution, and web research, ensuring accurate structured output formatting.
+
+---
+
+### 🎨 Community & Interests
+- **Hackathons:** Regular participant in national hackathons and developer meetups.
+- **Blogging & Tech Writing:** Passionate reader and writer of posts detailing microservices, database optimizations, and the Model Context Protocol.
+
+<p align="center">
+  <img src="./githubcity.png" alt="GitHub City Visualization" width="700" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-![image](./githubcity.png)
