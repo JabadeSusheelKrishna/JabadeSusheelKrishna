@@ -1,8 +1,8 @@
 ![Header](./github-header-banner.png)
 
 <div align="center">
-  <h1>Hi there, I'm Susheel Krishna Jabade 👋</h1>
-  <p><strong>B.Tech in Computer Science & Engineering @ IIIT Hyderabad (Class of 2026)</strong></p>
+  <!-- <h1>Hi there, I'm Susheel Krishna Jabade 👋</h1>
+  <p><strong>B.Tech in Computer Science & Engineering @ IIIT Hyderabad (Class of 2026)</strong></p> -->
   
   <p>
     <a href="https://www.linkedin.com/in/susheel-krishna-jabade/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
