@@ -35,11 +35,11 @@ I am a final-year Computer Science undergraduate student at the **International 
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JabadeSusheelKrishna&layout=compact&langs_count=6&hide_values=true&theme=chartreuse-dark" width="350" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JabadeSusheelKrishna&layout=compact&langs_count=6&hide_values=true&theme=chartreuse-dark" width="375" />
         <!-- ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JabadeSusheelKrishna&layout=donut&hide_title=true&langs_count=6&hide_values=true&theme=midnight-purple) -->
       </td>
       <td align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api?username=JabadeSusheelKrishna&rank_icon=github&show_icons=true&include_all_commits=true&theme=nightowl" alt="Top Langs" width="350" />
+        <img src="https://github-stats-extended.vercel.app/api?username=JabadeSusheelKrishna&rank_icon=github&show_icons=true&include_all_commits=true&theme=nightowl" alt="Top Langs" width="375" />
       </td>
     </tr>
   </table>
