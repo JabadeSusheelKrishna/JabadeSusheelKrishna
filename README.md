@@ -35,7 +35,7 @@ I am a final-year Computer Science undergraduate student at the **International 
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JabadeSusheelKrishna&layout=compact&langs_count=6&hide_values=true&theme=chartreuse-dark" width="375" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JabadeSusheelKrishna&layout=compact&langs_count=6&hide_values=true&theme=chartreuse-dark" width="350" />
         <!-- ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JabadeSusheelKrishna&layout=donut&hide_title=true&langs_count=6&hide_values=true&theme=midnight-purple) -->
       </td>
       <td align="center" valign="top">
