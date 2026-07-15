@@ -167,5 +167,5 @@ I am a final-year Computer Science undergraduate student at the **International 
 - **Blogging & Tech Writing:** Passionate reader and writer of posts detailing microservices, database optimizations, and the Model Context Protocol.
 
 <p align="center">
-  <img src="./contributions.png" alt="GitHub City Visualization" width="700" />
+  <img src="./contributions.png" alt="GitHub City Visualization" width="100%" />
 </p>
