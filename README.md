@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/susheel-krishna-jabade/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:susheelkrishnajabade@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://leetcode.com/u/DoraemonPro/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://jabadesusheelkrishna.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="Portfolio" /></a>
+    <a href="https://jabadesusheelkrishna.github.io/portfolio-web"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="Portfolio" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=jabadesusheelkrishna&label=Profile%20views&color=0e75b6&style=flat-square" alt="jabadesusheelkrishna" />
